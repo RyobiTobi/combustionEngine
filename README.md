@@ -7,3 +7,7 @@ Using left and right arrow keys to switch the engine type(top right corner) and 
 
 # please keep in mind:
 This script was created for learning purposes and shall not represent any seriousness.
+
+
+# libraries used :
+- P5.js https://p5js.org/
